@@ -1,6 +1,6 @@
 .cards {
-  margin: 0 auto;
-  width: 80%;
+  margin: 0;
+  width: 920px;
   list-style-type: none;
   display: flex;
   flex-wrap: wrap;

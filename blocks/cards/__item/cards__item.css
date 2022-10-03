@@ -1,5 +1,9 @@
 .cards__item {
   width: 240px;
-  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.cards__item:nth-child(3) {
+  margin-right: 0;
 }
 
